@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Wesslove
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Hello, I'm @Wesslove.
+👀 I'm passionate about computer application maintenance and IT hardware management.
+🌱 I'm currently acquiring skills in programming (JavaScript, HTML5, CSS3, BA4, PHP, SQL, Bootstrap, C#, Python) and using MS-Office.
+💼 My goal is to utilize these skills to make a meaningful impact in the field of technology.
+🌐 You can find me on [insert your personal website or LinkedIn profile] to learn more about my background and projects.
 
 <!---
 Wesslove/Wesslove is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
